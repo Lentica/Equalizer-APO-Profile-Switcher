@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EQAPO Profile Switcher", "EQAPO Profile Switcher\EQAPO Profile Switcher.csproj", "{9F4D19C3-4E96-457D-8551-D38E439810A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4D19C3-4E96-457D-8551-D38E439810A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4D19C3-4E96-457D-8551-D38E439810A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4D19C3-4E96-457D-8551-D38E439810A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4D19C3-4E96-457D-8551-D38E439810A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C2F1F6-B04C-4302-B925-C1B9371E64AE}
+	EndGlobalSection
+EndGlobal
