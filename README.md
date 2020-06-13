@@ -5,4 +5,4 @@ IF you are going to use this software, please backup all your config files befor
 
 I shall not be held responsible for any loss and/or damages caused to your config files. This is an experimental software, use at your own risk.
 
-If you have any questions or and/or suggestions, you can email me at 1337nubz@gmail.com
+If you have any questions and/or suggestions, you can email me at 1337nubz@gmail.com
